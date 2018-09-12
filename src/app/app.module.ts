@@ -11,7 +11,8 @@ import { ResumeComponent } from './resume/resume.component';
 const appRoutes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'bio', component: BioComponent },
-  { path: 'resume', component: ResumeComponent }
+  { path: 'resume', component: ResumeComponent },
+  { path: '**', redirectTo: '/home'}
 ];
 
 

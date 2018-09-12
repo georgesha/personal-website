@@ -1,0 +1,16 @@
+.navbar {
+  height: 80px;
+}
+
+.navbar-nav {
+  margin: 0 auto;
+  margin-left: 0!important;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.nav-link {
+  font-size: 20pt;
+}
