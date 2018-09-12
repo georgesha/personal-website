@@ -1,2 +1,2 @@
 # personal-website
-Personal website built on Angular
+Personal website built with Angular
